@@ -5,8 +5,7 @@
 </div>
 
 # 💫 Hi! 👋, I'm Shreyash Das!
-** 1st Year CSE Student | Passionate AI / ML Engineer |
-
+🎓 1st Year CSE Student | 📢 Google Developers Group (GDG) | 🤖 AI / ML Enthusiast
 - 🔭 **I’m currently working on:**       NA
 - 🌱 **I’m currently learning:** C-Programming
 - 👯 **I’m looking to collaborate on:**       NA
