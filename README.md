@@ -7,10 +7,10 @@
 # 💫 Hi! 👋, I'm Shreyash Das!
 🎓 1st Year CSE Student | 📢 Google Developers Group (GDG) | 🤖 AI / ML Enthusiast
 - 🔭 **I’m currently working on:**       NA
-- 🌱 **I’m currently learning:** C-Programming
+- 🌱 **I’m currently learning:** C++
 - 👯 **I’m looking to collaborate on:**       NA
 - 🤔 **I’m looking for help with:**        NA
-- 💬 **Ask me about:** Developer experienced in Python and C
+- 💬 **Ask me about:** Developer experienced in Python and C-Programming
 Providing coding assistance, practical tech insights, and real-life optimization solutions for everyday devices
 - 📫 **How to reach me:** shubhxyash@outlook.in
 - 😄 **Pronouns:** Shreyash
