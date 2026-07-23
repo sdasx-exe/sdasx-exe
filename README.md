@@ -13,7 +13,7 @@
 - 💬 **Ask me about:** Developer experienced in Python and C-Programming
 Providing coding assistance, practical tech insights, and real-life optimization solutions for everyday devices
 - 📫 **How to reach me:** shubhxyash@outlook.in
-- 😄 **Pronouns:** Shreyash
+- 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** Your phone likely has more sensors than a spaceship (GPS, gyroscope, accelerometer, etc.) ;)
 
 ## 🌐 Socials:
