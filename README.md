@@ -6,7 +6,7 @@
 
 # 💫 Hi! 👋, I'm Shreyash Das!
 🎓 2nd Year CSE Undergrad | 📢 Google Developers Group (GDG) | 🤖 AI / ML Enthusiast
-- 🔭 **I’m currently working on:**       NA
+- 🔭 **I’m currently working on:**       AI Based URL detection system
 - 🌱 **I’m currently learning:** C++
 - 👯 **I’m looking to collaborate on:**       NA
 - 🤔 **I’m looking for help with:**        NA
